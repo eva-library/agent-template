@@ -50,4 +50,4 @@ Keep in mind that this is a template, so make sure to tailor the information to 
 > Copyright ©
 2021, All rights reserved.
 eva by everis product and its components are the property of everis.
-eva by everis is a software registered by everis
+eva by everis is a software registered by NTT DATA
