@@ -10,7 +10,11 @@ Keep in mind that this is a template, so make sure to tailor the information to 
 
 ## Available Agent Templates:
 
+**Airlines**: English | Spanish | Portuguese
+
 **Banking**: [English](https://github.com/eva-library/agent-template-banking/files/11021395/42907fa1-c777-4c37-bd6e-f09275404c7e.zip) | [Spanish](https://github.com/eva-library/agent-template-banking/files/11021398/2d8a13c3-376b-4daf-a0da-f95d6c30c5ab.zip) | [Portuguese](https://github.com/eva-library/agent-template-banking/files/11021401/e421c779-d50f-4a63-bf7e-61b65262bbcc.zip)
+
+**Commerce**: [English](https://github.com/eva-library/agent-template-commerce/files/11223070/1de8c521-0560-4ed8-9e6e-5fd7a3a1a8d4.zip) | [Spanish](https://github.com/eva-library/agent-template-commerce/files/11223077/9f1a36f0-b33e-4793-b36e-30476ce2507d.zip) | [Portuguese](https://github.com/eva-library/agent-template-commerce/files/11223082/54621b14-b45b-48b9-aa16-2df77fecbd27.zip)
 
 **Foundation**: [English](https://github.com/eva-library/agent-templates-foundation/files/9161912/AT.Foundation.ENG.zip) | [Spanish](https://github.com/eva-library/agent-templates-foundation/blob/main/ede999fb-3499-4f25-99cd-cfd5dbd80181.zip) | [Portuguese](https://github.com/eva-library/agent-templates-foundation/blob/main/850cc22b-13fd-4329-b3d2-f3df0d952d91.zip)
 
@@ -20,9 +24,6 @@ Keep in mind that this is a template, so make sure to tailor the information to 
 
 **Telecom**: [English](https://github.com/eva-library/agent-template-telecom/files/9832898/telecom.eng.zip) | [Spanish](https://github.com/eva-library/agent-template-telecom/files/9832903/telecom.esp.zip) | [Portuguese](https://github.com/eva-library/agent-template-telecom/files/9832904/telecom.por.zip)
 
-**Commerce**: [English](https://github.com/eva-library/agent-template-commerce/files/11223070/1de8c521-0560-4ed8-9e6e-5fd7a3a1a8d4.zip) | [Spanish](https://github.com/eva-library/agent-template-commerce/files/11223077/9f1a36f0-b33e-4793-b36e-30476ce2507d.zip) | [Portuguese](https://github.com/eva-library/agent-template-commerce/files/11223082/54621b14-b45b-48b9-aa16-2df77fecbd27.zip)
-
-**Airlines**: English | Spanish | Portuguese
 
 ## How to import 
 
