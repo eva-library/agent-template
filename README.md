@@ -10,7 +10,8 @@ Keep in mind that this is a template, so make sure to tailor the information to 
 
 ## Available Agent Templates:
 
-**Airlines**: English | Spanish | Portuguese
+**Airlines**: [English](https://github.com/eva-library/agent-template/files/12360335/7bb0d2d4-d89c-4f9b-b4c8-c3d4cb429fae.zip)
+| Spanish | Portuguese
 
 **Banking**: [English](https://github.com/eva-library/agent-template-banking/files/11021395/42907fa1-c777-4c37-bd6e-f09275404c7e.zip) | [Spanish](https://github.com/eva-library/agent-template-banking/files/11021398/2d8a13c3-376b-4daf-a0da-f95d6c30c5ab.zip) | [Portuguese](https://github.com/eva-library/agent-template-banking/files/11021401/e421c779-d50f-4a63-bf7e-61b65262bbcc.zip)
 
