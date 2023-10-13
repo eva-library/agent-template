@@ -24,7 +24,7 @@ Keep in mind that this is a template, so make sure to tailor the information to 
 **Healthcare**: [English](https://github.com/eva-library/agent-template-healthcare/blob/main/472a6d5c-757e-4ac8-addf-323ad290bdc1.zip) | [Spanish]
 | [Portuguese]
 
-**Ticketing**: [English](https://github.com/eva-library/agent-template-ticketing/files/9832889/ticketing.eng.zip) | [Spanish](https://github.com/eva-library/agent-template-ticketing/blob/main/a1d44a3b-7b58-4e4e-8673-205dae6a9d9e.zip) | [Portuguese](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
+**Ticketing**: [English](https://github.com/eva-library/agent-template-ticketing/files/9832889/ticketing.eng.zip) | [Spanish] | [Portuguese](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
 
 **Telecom**: [English](https://github.com/eva-library/agent-template-telecom/files/9832898/telecom.eng.zip) | [Spanish](https://github.com/eva-library/agent-template-telecom/files/9832903/telecom.esp.zip) | [Portuguese](https://github.com/eva-library/agent-template-telecom/files/9832904/telecom.por.zip)
 
