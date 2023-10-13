@@ -19,12 +19,13 @@ Keep in mind that this is a template, so make sure to tailor the information to 
 
 **Commerce**: [English](https://github.com/eva-library/agent-template-commerce/files/11223070/1de8c521-0560-4ed8-9e6e-5fd7a3a1a8d4.zip) | [Spanish](https://github.com/eva-library/agent-template-commerce/files/11223077/9f1a36f0-b33e-4793-b36e-30476ce2507d.zip) | [Portuguese](https://github.com/eva-library/agent-template-commerce/files/11223082/54621b14-b45b-48b9-aa16-2df77fecbd27.zip)
 
-**Foundation**: [English] | [Spanish](https://github.com/eva-library/agent-templates-foundation/blob/main/ede999fb-3499-4f25-99cd-cfd5dbd80181.zip) | [Portuguese](https://github.com/eva-library/agent-templates-foundation/blob/main/850cc22b-13fd-4329-b3d2-f3df0d952d91.zip)
+**Foundation**: [English](https://github.com/eva-library/agent-template/files/12895251/8391e390-adcd-476e-84e6-f6a54665de77.zip)
+| [Spanish](https://github.com/eva-library/agent-templates-foundation/blob/main/ede999fb-3499-4f25-99cd-cfd5dbd80181.zip) | [Portuguese](https://github.com/eva-library/agent-templates-foundation/blob/main/850cc22b-13fd-4329-b3d2-f3df0d952d91.zip)
 
-**Healthcare**: [English](https://github.com/eva-library/agent-template-healthcare/blob/main/472a6d5c-757e-4ac8-addf-323ad290bdc1.zip) | [Spanish]
-| [Portuguese]
+**Healthcare**: [English](https://github.com/eva-library/agent-template-healthcare/blob/main/472a6d5c-757e-4ac8-addf-323ad290bdc1.zip) | [Spanish](https://github.com/eva-library/agent-template/files/12895263/13074643-20f8-46eb-b975-bfa808dde02c.zip)
+| [Portuguese](https://github.com/eva-library/agent-template/files/12895261/582895df-ef00-4110-99c6-99acd062b67b.zip)
 
-**Ticketing**: [English](https://github.com/eva-library/agent-template-ticketing/files/9832889/ticketing.eng.zip) | [Spanish] | [Portuguese](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
+**Ticketing**: [English](https://github.com/eva-library/agent-template-ticketing/files/9832889/ticketing.eng.zip) | [Spanish](https://github.com/eva-library/agent-template/files/12895271/2d378a65-b94d-4f5a-8212-f7922a7dbd57.zip) | [Portuguese](https://github.com/eva-library/agent-template-ticketing/files/9154124/AT.Ticketing.PT.zip)
 
 **Telecom**: [English](https://github.com/eva-library/agent-template-telecom/files/9832898/telecom.eng.zip) | [Spanish](https://github.com/eva-library/agent-template-telecom/files/9832903/telecom.esp.zip) | [Portuguese](https://github.com/eva-library/agent-template-telecom/files/9832904/telecom.por.zip)
 
